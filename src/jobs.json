@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "3d3c",
-      "title": "test 1",
-      "type": "Part-Time",
-      "location": "Helsinki",
-      "description": "this is test",
-      "salary": "$70K - 80K",
-      "company": {
-        "name": "testi firma",
-        "description": "test test",
-        "contactEmail": "test@gmail.com",
-        "contactPhone": "0412223333"
-      }
     }
   ]
 }
